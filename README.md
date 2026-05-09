@@ -16,9 +16,7 @@ A heartfelt Mother's Day tribute website built for Potti amma — featuring a be
 - **Backend:** Motoko (Internet Computer canister)
 - **Deployed on:** Internet Computer (ICP)
 
-## Live App
 
-Deployed on the Internet Computer via [Caffeine](https://caffeine.ai).
 
 ## Message
 
